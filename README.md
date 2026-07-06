@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Shab !
 
-Un développeur passionné par la création d'applications modernes et performantes.
+Un développeur en alternance, investi dans les sides-projects!
 
 ### 🛠️ Mon Stack Technique
 
